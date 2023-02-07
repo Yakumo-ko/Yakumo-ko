@@ -1,4 +1,5 @@
-### Hi there 👋
+一个喜欢研究计算机基础的废物罢了
+---
 
 <!--
 **Yakumo-ko/Yakumo-ko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yakumo-ko)](https://github.com/anuraghazra/github-readme-stats)
